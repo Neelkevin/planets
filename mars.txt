@@ -1,3 +1,4 @@
+conside venus as a base
 Hi..mars
 jupiter
 earth
